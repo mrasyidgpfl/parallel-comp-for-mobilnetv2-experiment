@@ -32,7 +32,7 @@ Architecture: Partial MVP (Model, View, Presenter)
         - fun **showInput**(**param**:String): called when the animation clips are finished playing.
 
 # Rasyid
-- Description: Description: Feature extraction with MobileNetV2 is now performed in the  `MobileNetV2Classifier` class using several TensorFlow Lite framework modules. The `TestingModelProvider` class is added to measure the performance of the process. The `WordSequenceAligner` class is added for measuring sentence accuracy and word error rate (WER).
+- Description: Feature extraction with MobileNetV2 is now performed in the  `MobileNetV2Classifier` class using several TensorFlow Lite framework modules. The `TestingModelProvider` class is added to measure the performance of the process. The `WordSequenceAligner` class is added for measuring sentence accuracy and word error rate (WER).
 - Scheme/Diagram :
 
 <div align="center">
