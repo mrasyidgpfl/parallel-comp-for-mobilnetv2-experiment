@@ -1,0 +1,107 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.firebase.crashlytics'
+apply plugin: 'com.google.firebase.firebase-perf'
+
+project.ext.ASSET_DIR = projectDir.toString() + '/src/main/assets'
+
+assert file(project.ext.ASSET_DIR + "/tflite/Weight_MobileNet_V2_ekstraksi_fitur.tflite").exists()
+assert file(project.ext.ASSET_DIR + "/tflite/Weight_MobileNet_V2_20191020_054829_K_1-5_Epoch_50.pb").exists()
+
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        applicationId "com.fasilkom.kotlin.sibipenerjemah"
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility = '1.8'
+        targetCompatibility = '1.8'
+    }
+
+    aaptOptions {
+        noCompress "tflite"
+    }
+
+    dataBinding.enabled = true
+    buildToolsVersion = '28.0.3'
+
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.3.1'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.0'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.3.0'
+    implementation fileTree(dir: 'libs', include: ['*.aar', '*.jar'], exclude: [])
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    /* Firebase */
+//    implementation platform('com.google.firebase:firebase-bom:26.1.0')
+//    implementation 'com.google.android.gms:play-services-basement:17.5.0'
+//    implementation 'com.google.firebase:firebase-crashlytics-ktx'
+//    implementation 'com.google.firebase:firebase-analytics-ktx'
+//    implementation 'com.google.firebase:firebase-perf-ktx'
+
+    /* TensorFlow */
+    implementation 'org.tensorflow:tensorflow-android:1.13.1'
+    implementation('org.tensorflow:tensorflow-lite:0.0.0-nightly') { changing = true }
+    implementation('org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly') { changing = true }
+    implementation('org.tensorflow:tensorflow-lite-support:0.0.0-nightly') { changing = true }
+
+    /* RxJava */
+    implementation "io.reactivex.rxjava3:rxjava:3.0.0"
+    implementation 'io.reactivex.rxjava3:rxandroid:3.0.0'
+
+    /* Retrofit & OkHTTP */
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.10.0'
+
+    /* Koin */
+    implementation "org.koin:koin-core:2.1.6"
+    implementation "org.koin:koin-android:2.1.6"
+
+    /* Material UI */
+    implementation 'com.google.android.material:material:1.2.0'
+
+    /* Internal Module */
+    implementation project(':SIBI Unity')
+
+    /* CameraX */
+    def camerax_version = "1.0.0-beta08"
+    implementation "androidx.camera:camera-core:${camerax_version}"
+    // CameraX core library using camera2 implementation
+    implementation "androidx.camera:camera-camera2:$camerax_version"
+    // CameraX Lifecycle Library
+    implementation "androidx.camera:camera-lifecycle:$camerax_version"
+    // CameraX View class
+    implementation "androidx.camera:camera-view:1.0.0-alpha14"
+
+    /* Utils */
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+    compile "com.opencsv:opencsv:4.0"
+}

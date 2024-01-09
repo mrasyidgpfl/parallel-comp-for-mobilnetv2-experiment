@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:title="@string/sibiText"
+        android:icon="@drawable/ic_sibi_navigation"/>
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:title="@string/bisindoText"
+        android:icon="@drawable/ic_bisindo_navigation"/>
+</menu>

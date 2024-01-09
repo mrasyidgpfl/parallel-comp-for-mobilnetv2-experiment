@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061910617960",
+    "firebase_url": "https://sibi-48d20.firebaseio.com",
+    "project_id": "sibi-48d20",
+    "storage_bucket": "sibi-48d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061910617960:android:bd36b6aa6b691e3dbd80dd",
+        "android_client_info": {
+          "package_name": "com.fasilkom.kotlin.sibipenerjemah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061910617960-51t3c3d607rvh55l95eepmo9n7tk8bfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fasilkom.kotlin.sibipenerjemah",
+            "certificate_hash": "59cb173f100da25e5d046bfa92576afbfef22926"
+          }
+        },
+        {
+          "client_id": "1061910617960-urcg6mdpaniuejoeo5105r5pkksst11e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-peGcyDafrE9rnEcRDhdc1IGDsXSt3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061910617960-urcg6mdpaniuejoeo5105r5pkksst11e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

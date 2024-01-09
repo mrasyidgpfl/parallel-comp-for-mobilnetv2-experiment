@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="@color/defaultColor"
+        app:cardCornerRadius="@dimen/_8sdp"
+        android:layout_marginRight="@dimen/_2sdp"
+        android:layout_marginLeft="@dimen/_2sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginBottom="@dimen/_16sdp"
+
+        android:background="@color/white"
+        app:cardElevation="@dimen/_4sdp">
+
+        <LinearLayout
+            android:id="@+id/lytCard"
+            android:layout_width="match_parent"
+            android:focusableInTouchMode="true"
+            android:background="@color/greyf7f7f7"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/cardImg"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_gravity="center"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_texttosign" />
+            <!--<ImageView-->
+            <!--android:id="@+id/fragImgBg"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="fill_parent"-->
+            <!--android:src="@drawable/ic_background_title_sibi"-->
+            <!--android:scaleType="centerCrop"/>-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_40sdp"
+                android:orientation="horizontal"
+                android:paddingRight="@dimen/_16sdp"
+                android:paddingLeft="@dimen/_16sdp"
+                android:paddingTop="@dimen/_8sdp"
+                android:paddingBottom="@dimen/_8sdp"
+                android:background="@drawable/background"
+                android:layout_gravity="bottom">
+                <TextView
+                    android:id="@+id/TitleFrag"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_marginRight="@dimen/_8sdp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/sanspro_bold"
+                    android:text="@string/sibiText"
+                    android:textColor="@color/black3333"
+                    android:textSize="@dimen/_14sdp" />
+
+                <Button
+                    android:id="@+id/btnStart"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_button"
+                    android:text="@string/start"
+                    android:gravity="center"
+                    android:textSize="@dimen/_14sdp"
+                    android:textColor="@color/white"
+                    android:fontFamily="@font/sanspro_bold"
+                    />
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background="@color/white"-->
+        <!--android:orientation="vertical"-->
+        <!--android:paddingLeft="@dimen/_16sdp"-->
+        <!--android:paddingTop="@dimen/_20sdp"-->
+        <!--android:paddingRight="@dimen/_16sdp">-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/titleCard"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="@dimen/_8sdp"-->
+        <!--android:fontFamily="@font/sanspro_bold"-->
+        <!--android:text="TITLE CARD"-->
+        <!--android:textColor="@color/black"-->
+        <!--android:textSize="@dimen/_13sdp" />-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/descCard"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="@dimen/_8sdp"-->
+        <!--android:fontFamily="@font/sanspro_reguler"-->
+        <!--android:text="Fitur ini akan mengubah teks ke dalam bahasa isyarat berupa video"-->
+        <!--android:textColor="@color/black"-->
+        <!--android:textSize="@dimen/_13sdp" />-->
+
+
+        <!--</LinearLayout>-->
+    </androidx.cardview.widget.CardView>
+</layout>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/relativeLayoutParent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <androidx.camera.view.PreviewView
+            android:id="@+id/viewFinder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:elevation="-1dp"/>
+
+        <ProgressBar
+            android:id="@+id/progressBarCircular"
+            style="?android:attr/progressBarStyle"
+            android:indeterminate="true"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/view_top_layer"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"
+            android:background="#B3000000"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+<!--            <ImageView-->
+<!--                android:id="@+id/imgMakara"-->
+<!--                android:layout_width="36dp"-->
+<!--                android:layout_height="36dp"-->
+<!--                android:src="@drawable/makara_fasilkom"-->
+<!--                app:layout_constraintTop_toTopOf="parent"-->
+<!--                app:layout_constraintStart_toStartOf="parent"-->
+<!--                app:layout_constraintBottom_toBottomOf="parent"/>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/textViewTitle"-->
+<!--                android:layout_width="200dp"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:text="Gesture-to-Text"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:fontFamily="@font/sanspro_reguler"-->
+<!--                android:layout_marginTop="12dp"-->
+<!--                android:layout_marginBottom="12dp"-->
+<!--                android:gravity="center"-->
+<!--                app:layout_constraintTop_toTopOf="parent"-->
+<!--                app:layout_constraintEnd_toEndOf="parent"-->
+<!--                app:layout_constraintStart_toStartOf="parent"-->
+<!--                app:layout_constraintBottom_toBottomOf="parent"/>-->
+
+            <ImageButton
+                android:id="@+id/imgHelp"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:src="@drawable/ic_camera_guide"
+                android:background="?android:selectableItemBackgroundBorderless"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/overlay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#B3000000"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <ProgressBar
+                android:id="@+id/progressBarLinear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:max="100"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+            <ImageButton
+                android:id="@+id/imgCapture"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:layout_margin="24dp"
+                android:src="@drawable/ic_camera_not_recording"
+                android:background="?android:selectableItemBackgroundBorderless"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <TextView
+                android:id="@+id/textViewGarisBantu"
+                android:background="@drawable/bg_button_border_green"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:text="Guideline"
+                android:textSize="@dimen/_12sdp"
+                android:textColor="@color/white"
+                android:padding="@dimen/_4sdp"
+                app:layout_constraintTop_toTopOf="@id/textViewSave"
+                app:layout_constraintBottom_toBottomOf="@id/textViewSave"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toStartOf="@id/imgCapture"/>
+
+            <TextView
+                android:id="@+id/textViewSave"
+                android:background="@drawable/bg_button_border_white"
+                android:layout_width="@dimen/_55sdp"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_12sdp"
+                android:textColor="@color/white"
+                android:textAlignment="center"
+                android:padding="@dimen/_4sdp"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@id/imgCapture"
+                app:layout_constraintEnd_toEndOf="parent"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:id="@+id/textViewTranslate"
+            android:background="#B3000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/sanspro_reguler"
+            android:textSize="14sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/overlay"/>
+
+        <ImageView
+            android:id="@+id/imgSibiBody"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:src="@drawable/sibi_body_no_text"
+            app:layout_constraintTop_toBottomOf="@id/view_top_layer"
+            app:layout_constraintBottom_toTopOf="@id/overlay"/>
+
+        <TextView
+            android:id="@+id/textViewTutorial"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:maxLines="20"
+            android:text="1. Arahkan kamera ke lawan bicara anda sesuai guideline
+            \n2. Terdapat 2 garis bantu yang menunjukkan posisi awal wajah dan tangan lawan bicara
+            \n3. Pastikan anda merekam dengan jelas tangan dan setengah badan lawan bicara anda.
+            \n4. Setelah selesai merekam, aplikasi akan mengubah video hasil rekaman menjadi teks
+            \n5. Waktu yang dibutuhkan untuk memproses berbeda pada setiap ponsel pengguna
+            \n6. Tekan tombol 'help' pojok kanan atas untuk menutup tutorial ini"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:background="#E6FFFFFF"
+            android:padding="12dp"
+            android:lineSpacingMultiplier="1.2"
+            android:layout_marginLeft="54dp"
+            android:layout_marginRight="54dp"
+            android:visibility="gone"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

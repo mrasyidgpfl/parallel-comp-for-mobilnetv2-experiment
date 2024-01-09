@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">SIBI Penerjemah</string>
+    <string name="title_activity_home_page">SIBI</string>
+
+    <string-array name="sibiVideoSelection">
+        <item>1. Siapa Nama Mu</item>
+        <item>2. Dimana Alamat Rumahmu</item>
+        <item>3. Dimana Sekolahmu</item>
+        <item>4. Bolehkah Saya Minta Nomor Teleponmu</item>
+        <item>5. Film Apa Yang Sedang Di putar</item>
+        <item>6. Jam Berapa Film Ini Di Putar</item>
+        <item>7. Berapa Harga Karcis Film Ini</item>
+        <item>8. Dimana Film Ini Di Putar</item>
+        <item>9. Apa Nama Sayuran Itu</item>
+        <item>10. Berapa Harga Sayuran Itu</item>
+        <item>11. Apakah Harga Sayuran Ini Boleh Ditawar</item>
+        <item>12. Berapa Jumlah Yang Saya Harus Bayar</item>
+        <item>13. Kami Ingin Pergi Ke Kota Tua, Naik Bis Apa</item>
+        <item>14. Berapa Harga Karcis Yang Harus Saya Bayar</item>
+        <item>15. Kami Harus Turun Dimana</item>
+        <item>16. Adakah Cara Lain Kita Pergi Ke Kota Tua</item>
+        <item>17. Saya Ingin Membuka Tabungan, Bagaimana Caranya</item>
+        <item>18. Bagaimana Cara Menabung</item>
+        <item>19. Di mana Kami Bisa Mengambil Tabungan</item>
+        <item>20. Bagaimana Cara Mengirim Uang Melalui Bank</item>
+        <item>21. Selamat Natal dan Tahun Baru</item>
+        <item>22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin</item>
+        <item>23. Selamat Ulang Tahun</item>
+        <item>24. Semoga Panjang Umur</item>
+        <item>25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana</item>
+        <item>26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya</item>
+        <item>27. Jam Berapa Dokter Datang</item>
+        <item>28. Di Apotek Mana Obat Ini Bisa Dibeli</item>
+    </string-array>
+
+    <string name="video_recorded_saved_location">SIBI/%1$s</string>
+    <string name="sibiText">SIBI</string>
+    <string name="bisindoText">BISINDO</string>
+    <string name="sibiSubText">SIBI menggunakan abjad sebagai panduan bahasa isyarat tangan satu.</string>
+    <string name="bisindoSubText">BISINDO menggunakan gerakan dua tangan sebagai upaya komunikasi antar pengguna bahasa isyarat.</string>
+    <string name="sign_to_text">Isyarat ke Teks</string>
+    <string name="text_to_sign">Teks ke Isyarat</string>
+    <string name="unavailable_feature">Fitur saat ini belum tersedia</string>
+    <string name="ok">OK</string>
+    <string name="IsyaratToTextHeader">Fitur ini akan mengubah isyarat yang ditangkap oleh kamera ke dalam teks.</string>
+    <string name="IsyaratToTextSub">Dalam fitur ini anda hanya perlu merekam gerakan isyarat, selanjutnya kami akan mengubah rekaman tersebut menjadi teks.</string>
+    <string name="TextToIsyaratHeader">Fitur ini akan mengubah teks ke dalam bahasa isyarat yang berupa video.</string>
+    <string name="TextToIsyaratSub">Dalam fitur ini anda hanya perlu menulis teks, selanjutnya kami akan mengubah teks tersebut menjadi rekaman isyarat.</string>
+    <string name="firstTutorial">Arahkan ponsel anda ke lawan bicara anda.</string>
+    <string name="secondTutorial">Pastikan anda merekam dengan jelas tangan dan setengah badan lawan bicara anda.</string>
+    <string name="thirdTutorial">Aplikasi akan mengubah video yang anda rekam menjadi teks.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">MULAI</string>
+    <string name="start_w_tutorial">MULAI DENGAN TUTORIAL</string>
+
+    <string-array name="cardTitleName">
+        <item>Isyarat Ke Dalam Teks</item>
+        <item>Teks Ke Dalam Isyarat</item>
+    </string-array>
+
+    <string-array name="cardSubtitleText">
+        <item>Fitur ini akan mengubah bahasa isyarat yang berupa video ke dalam teks</item>
+        <item>Fitur ini akan mengubah teks ke dalam bahasa isyarat yang merupakan video</item>
+    </string-array>
+
+    <string-array name="sibiVideoSelectionAvailable">
+        <item>Siapa Nama Mu</item>
+        <item>Saya Sering Sakit Kepala, Saya Harus Periksa Ke Bagian Mana</item>
+    </string-array>
+
+    <array name="cardImgSibi">
+        <item>@drawable/img_isyarat_text_sibi_active</item>
+        <item>@drawable/img_text_isyarat_sibibisindo_not_active</item>
+    </array>
+
+    <array name="cardImgBisindo">
+        <item>@drawable/img_isyarat_text_bisindo_not_active</item>
+        <item>@drawable/img_text_isyarat_sibibisindo_not_active</item>
+    </array>
+</resources>

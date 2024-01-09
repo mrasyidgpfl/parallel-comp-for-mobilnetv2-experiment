@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.fragments.KamusDetailFragment"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:id="@+id/descriptionText"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:paddingLeft="36dp"
+        android:paddingRight="36dp"
+        android:layout_marginBottom="50dp"
+        android:text="Selipkan jempol ke tengah-tengah telunjuk dan jari tengah tangan kanan. Gerakkan jempol keatas dan kebawah sebanyak 10 kaliSelipkan jempol ke tengah-tengah telunjuk dan jari tengah tangan kanan. Gerakkan jempol keatas dan kebawah sebanyak 10 kali"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toTopOf="@id/playButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/playButton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PUTAR"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

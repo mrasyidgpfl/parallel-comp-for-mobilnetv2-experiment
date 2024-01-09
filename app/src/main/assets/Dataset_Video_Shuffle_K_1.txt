@@ -1,0 +1,444 @@
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Elni/20181014_094951
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Yuda/20181013_154632
+/24. Semoga Panjang Umur/Adina/20181013_153121
+/7. Berapa Harga Karcis Film Ini/Ibu Rina/20181014_104711
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Yuda/20181013_145053
+/23. Selamat Ulang Tahun/Ibu Budi/20181014_151220
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Budi/20181014_134303
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Budi/20181014_165445
+/3. Dimana Sekolahmu/Ibu Budi/20181014_093511
+/21. Selamat Natal dan Tahun Baru/Ibu Budi/20181014_150020
+/3. Dimana Sekolahmu/Adina/20181sa013_095808
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Rina/20181014_130845
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Budi/20181014_110628
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Elni/20181014_124757
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Elni/20181014_171426
+/5. Film Apa Yang Sedang Di Putar/Ibu Elni/20181014_102448
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Rina/20181014_172431
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Elni/20181014_122249
+/2. Dimana Alamat Rumahmu/Yuda/20181013_092112
+/21. Selamat Natal dan Tahun Baru/Ibu Elni/20181014_153146
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Adina/20181013_132448
+/7. Berapa Harga Karcis Film Ini/Ibu Elni/20181014_103011
+/5. Film Apa Yang Sedang Di Putar/Ibu Rina/20181014_103934
+/24. Semoga Panjang Umur/Ibu Budi/20181014_151657
+/3. Dimana Sekolahmu/Ibu Elni/20181014_094658
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Elni/20181014_112258
+/8. Dimana Film Ini Di Putar/Ibu Budi/20181014_101809
+/1. Siapa Nama Mu/Ibu Rina/20181014_095309
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Budi/20181014_165145
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Rina/20181014_172733
+/3. Dimana Sekolahmu/Ibu Budi/20181014_093350
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Budi/20181014_165102
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Budi/20181014_121350
+/5. Film Apa Yang Sedang Di Putar/Ibu Budi/20181014_100750
+/12. Berapa Jumlah Yang Harus Saya Bayar/Yuda/20181013_124910
+/15. Kami Harus Turun Dimana/Ibu Budi/20181014_120900
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Elni/20181014_160236
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Budi/20181014_133409
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Budi/20181014_135218
+/10. Berapa Harga Sayuran Itu/Ibu Rina/20181014_113305
+/2. Dimana Alamat Rumahmu/Ibu Rina/20181014_095647
+/4. Bolehkah Saya Minta Nomor Teleponmu/Yuda/20181013_095100
+/23. Selamat Ulang Tahun/Ibu Budi/20181014_151434
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Rina/20181014_143315
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Elni/20181014_123028
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Budi/20181014_110453
+/21. Selamat Natal dan Tahun Baru/Ibu Elni/20181014_153051
+/21. Selamat Natal dan Tahun Baru/Ibu Budi/20181014_150117
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Rina/20181014_173411
+/24. Semoga Panjang Umur/Ibu Budi/20181014_151707
+/5. Film Apa Yang Sedang Di Putar/Adina/20181013_103739
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Rina/20181014_130859
+/7. Berapa Harga Karcis Film Ini/Ibu Budi/20181014_101633
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Elni/20181014_142454
+/1. Siapa Nama Mu/Ibu Elni/20181014_094235
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Adina/20181013_135907
+/2. Dimana Alamat Rumahmu/Yuda/20181013_092521
+/24. Semoga Panjang Umur/Ibu Elni/20181014_154718
+/24. Semoga Panjang Umur/Ibu Rina/20181014_163542
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Elni/20181014_142440
+/24. Semoga Panjang Umur/Ibu Elni/20181014_155026
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Adina/20181013_125630
+/1. Siapa Nama Mu/Ibu Elni/20181014_094215
+/5. Film Apa Yang Sedang Di Putar/Ibu Rina/20181014_103843
+/1. Siapa Nama Mu/Ibu Budi/20181014_092819
+/3. Dimana Sekolahmu/Ibu Budi/20181014_093412
+/6. Jam Berapa Film Ini Di Putar/Ibu Elni/20181014_102930
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Rina/20181014_113747
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Budi/20181014_165033
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Budi/20181014_121516
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Rina/20181014_161637
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Yuda/20181013_161304
+/1. Siapa Nama Mu/Adina/20181013_093302
+/7. Berapa Harga Karcis Film Ini/Adina/20181013_110105
+/24. Semoga Panjang Umur/Ibu Rina/20181014_163659
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Rina/20181014_144736
+/15. Kami Harus Turun Dimana/Ibu Budi/20181014_120759
+/2. Dimana Alamat Rumahmu/Ibu Elni/20181014_094358
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Elni/20181014_125147
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Elni/20181014_140833
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Rina/20181014_172324
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Elni/20181014_111838
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Budi/20181014_165523
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Adina/20181013_151150
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Budi/20181014_120346
+/23. Selamat Ulang Tahun/Ibu Elni/20181014_154327
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Rina/20181014_132453
+/6. Jam Berapa Film Ini Di Putar/Yuda/20181013_102811
+/6. Jam Berapa Film Ini Di Putar/Ibu Rina/20181014_104436
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Budi/20181014_110842
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Elni/20181014_170258
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Budi/20181014_133202
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Adina/20181013_142356
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Rina/20181014_171708
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Budi/20181014_164356
+/5. Film Apa Yang Sedang Di Putar/Yuda/20181013_102238
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Adina/20181013_160332
+/23. Selamat Ulang Tahun/Ibu Elni/20181014_154004
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Rina/20181014_143253
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Adina/20181013_150550
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Adina/20181013_142248
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Budi/20181014_120152
+/3. Dimana Sekolahmu/Adina/20181013_100550
+/27. Jam Berapa Dokter Datang/Ibu Rina/20181014_172826
+/18. Bagaimana Cara Menabung/Yuda/20181013_135523
+/7. Berapa Harga Karcis Film Ini/Yuda/20181013_105118
+/4. Bolehkah Saya Minta Nomor Teleponmu/Adina/20181013_101101
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Elni/20181014_160250
+/24. Semoga Panjang Umur/Yuda/20181013_152146
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Yuda/20181013_133758
+/19. Di mana Kami Bisa Mengambil Tabungan/Yuda/20181013_140439
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Elni/20181014_142550
+/3. Dimana Sekolahmu/Ibu Rina/20181014_095743
+/9. Apa Nama Sayuran Itu/Ibu Rina/20181014_113139
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Elni/20181014_123557
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Rina/20181014_132616
+/23. Selamat Ulang Tahun/Yuda/20181013_151513
+/15. Kami Harus Turun Dimana/Ibu Rina/20181014_131450
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Elni/20181014_170917
+/2. Dimana Alamat Rumahmu/Ibu Elni/20181014_094442
+/21. Selamat Natal dan Tahun Baru/Ibu Rina/20181014_162419
+/4. Bolehkah Saya Minta Nomor Teleponmu/Adina/20181013_101313
+/2. Dimana Alamat Rumahmu/Yuda/20181013_092341
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Rina/20181014_143712
+/27. Jam Berapa Dokter Datang/Ibu Elni/20181014_171041
+/21. Selamat Natal dan Tahun Baru/Ibu Rina/20181014_162035
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Yuda/20181013_130913
+/1. Siapa Nama Mu/Yuda/20181013_091630
+/6. Jam Berapa Film Ini Di Putar/Ibu Budi/20181014_101204
+/19. Di mana Kami Bisa Mengambil Tabungan/Yuda/20181013_140458
+/12. Berapa Jumlah Yang Harus Saya Bayar/Adina/20181013_125956
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Yuda/20181013_153910
+/21. Selamat Natal dan Tahun Baru/Ibu Budi/20181014_145858
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Elni/20181014_123222
+/15. Kami Harus Turun Dimana/Adina/20181013_134238
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Elni/20181014_155954
+/5. Film Apa Yang Sedang Di Putar/Yuda/20181013_102117
+/24. Semoga Panjang Umur/Adina/20181013_153110
+/7. Berapa Harga Karcis Film Ini/Ibu Rina/20181014_104804
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Rina/20181014_132424
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Elni/20181014_135540
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Elni/20181014_140900
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Budi/20181014_134650
+/8. Dimana Film Ini Di Putar/Yuda/20181013_105428
+/10. Berapa Harga Sayuran Itu/Ibu Budi/20181014_110005
+/24. Semoga Panjang Umur/Yuda/20181013_152119
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Rina/20181014_145344
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Adina/20181013_150344
+/8. Dimana Film Ini Di Putar/Yuda/20181013_105329
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Yuda/20181013_124051
+/24. Semoga Panjang Umur/Ibu Budi/20181014_151738
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Rina/20181014_143212
+/24. Semoga Panjang Umur/Ibu Budi/20181014_151941
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Elni/20181014_122404
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Budi/20181014_121253
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Rina/20181014_114515
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Elni/20181014_095137
+/21. Selamat Natal dan Tahun Baru/Ibu Rina/20181014_161858
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Rina/20181014_132724
+/3. Dimana Sekolahmu/Yuda/20181013_094629
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Elni/20181014_170751
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Budi/20181014_093616
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Budi/20181014_165430
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Adina/20181013_125458
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Adina/20181013_155904
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Adina/20181013_134514
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Elni/20181014_112441
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Adina/20181013_161853
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Rina/20181014_142853
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Rina/20181014_143949
+/24. Semoga Panjang Umur/Ibu Budi/20181014_151636
+/23. Selamat Ulang Tahun/Ibu Elni/20181014_154258
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Budi/20181014_164000
+/21. Selamat Natal dan Tahun Baru/Ibu Rina/20181014_162012
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Yuda/20181013_131340
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Rina/20181014_161248
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Elni/20181014_141851
+/23. Selamat Ulang Tahun/Adina/20181013_152730
+/5. Film Apa Yang Sedang Di Putar/Ibu Elni/20181014_102435
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Yuda/20181013_131158
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Budi/20181014_134925
+/7. Berapa Harga Karcis Film Ini/Adina/20181013_110124
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Budi/20181014_164613
+/21. Selamat Natal dan Tahun Baru/Yuda/20181013_143557
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Budi/20181014_150549
+/9. Apa Nama Sayuran Itu/Ibu Budi/20181014_105801
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Adina/20181013_161932
+/23. Selamat Ulang Tahun/Adina/20181013_152812
+/23. Selamat Ulang Tahun/Ibu Rina/20181014_162845
+/2. Dimana Alamat Rumahmu/Adina/20181013_094126
+/15. Kami Harus Turun Dimana/Ibu Elni/20181014_124219
+/6. Jam Berapa Film Ini Di Putar/Yuda/20181013_102853
+/23. Selamat Ulang Tahun/Ibu Rina/20181014_162926
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Rina/20181014_172216
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Budi/20181014_120107
+/7. Berapa Harga Karcis Film Ini/Ibu Elni/20181014_103054
+/8. Dimana Film Ini Di Putar/Adina/20181013_110934
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Yuda/20181013_123958
+/2. Dimana Alamat Rumahmu/Ibu Budi/20181014_092928
+/18. Bagaimana Cara Menabung/Yuda/20181013_135448
+/18. Bagaimana Cara Menabung/Adina/20181013_140259
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Adina/20181013_155343
+/8. Dimana Film Ini Di Putar/Ibu Rina/20181014_105313
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Budi/20181014_134314
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Budi/20181014_135231
+/1. Siapa Nama Mu/Yuda/20181013_091737
+/9. Apa Nama Sayuran Itu/Adina/20181013_111948
+/21. Selamat Natal dan Tahun Baru/Ibu Elni/20181014_152903
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Elni/20181014_124902
+/23. Selamat Ulang Tahun/Ibu Elni/20181014_154031
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Budi/20181014_120123
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Budi/20181014_110320
+/19. Di mana Kami Bisa Mengambil Tabungan/Adina/20181013_141736
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Adina/20181013_145940
+/10. Berapa Harga Sayuran Itu/Adina/20181013_112120
+/23. Selamat Ulang Tahun/Ibu Rina/20181014_162835
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Budi/20181014_121433
+/24. Semoga Panjang Umur/Ibu Budi/20181014_151511
+/23. Selamat Ulang Tahun/Ibu Budi/20181014_151122
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Elni/20181014_171217
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Adina/20181013_155152
+/8. Dimana Film Ini Di Putar/Adina/20181013_110720
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Rina/20181014_100309
+/23. Selamat Ulang Tahun/Adina/20181013_152625
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Rina/20181014_144832
+/5. Film Apa Yang Sedang Di Putar/Ibu Budi/20181014_100903
+/15. Kami Harus Turun Dimana/Ibu Elni/20181014_124240
+/21. Selamat Natal dan Tahun Baru/Ibu Budi/20181014_145824
+/23. Selamat Ulang Tahun/Ibu Budi/20181014_151346
+/2. Dimana Alamat Rumahmu/Adina/20181013_094143
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Elni/20181014_094939
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Elni/20181014_165947
+/1. Siapa Nama Mu/Ibu Rina/20181014_095358
+/3. Dimana Sekolahmu/Ibu Elni/20181014_094747
+/5. Film Apa Yang Sedang Di Putar/Ibu Elni/20181014_102353
+/19. Di mana Kami Bisa Mengambil Tabungan/Adina/20181013_141514
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Elni/20181014_112452
+/12. Berapa Jumlah Yang Harus Saya Bayar/Adina/20181013_130012
+/21. Selamat Natal dan Tahun Baru/Ibu Elni/20181014_152609
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Budi/20181014_115921
+/21. Selamat Natal dan Tahun Baru/Yuda/20181013_143631
+/15. Kami Harus Turun Dimana/Ibu Budi/20181014_120913
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Elni/20181014_160541
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Budi/20181014_110414
+/7. Berapa Harga Karcis Film Ini/Ibu Budi/20181014_101559
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Yuda/20181013_144538
+/1. Siapa Nama Mu/Adina/20181013_093239
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Rina/20181014_130031
+/4. Bolehkah Saya Minta Nomor Teleponmu/Yuda/20181013_095308
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Elni/20181014_123442
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Rina/20181014_130755
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Adina/20181013_132404
+/8. Dimana Film Ini Di Putar/Ibu Elni/20181014_103415
+/15. Kami Harus Turun Dimana/Adina/20181013_134129
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Elni/20181014_112133
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Budi/20181014_134326
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Elni/20181014_125025
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Rina/20181014_171904
+/7. Berapa Harga Karcis Film Ini/Ibu Elni/20181014_103209
+/8. Dimana Film Ini Di Putar/Ibu Elni/20181014_103404
+/7. Berapa Harga Karcis Film Ini/Yuda/20181013_104827
+/23. Selamat Ulang Tahun/Ibu Elni/20181014_154345
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Elni/20181014_165918
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Budi/20181014_150616
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Budi/20181014_150248
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Budi/20181014_093602
+/23. Selamat Ulang Tahun/Ibu Rina/20181014_162746
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Adina/20181013_135848
+/2. Dimana Alamat Rumahmu/Ibu Rina/20181014_095539
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Rina/20181014_130413
+/24. Semoga Panjang Umur/Ibu Elni/20181014_155146
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Budi/20181014_150829
+/18. Bagaimana Cara Menabung/Ibu Rina/20181014_143518
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Budi/20181014_164510
+/18. Bagaimana Cara Menabung/Ibu Elni/20181014_140126
+/10. Berapa Harga Sayuran Itu/Ibu Elni/20181014_111416
+/21. Selamat Natal dan Tahun Baru/Ibu Elni/20181014_152813
+/21. Selamat Natal dan Tahun Baru/Yuda/20181013_143852
+/12. Berapa Jumlah Yang Harus Saya Bayar/Yuda/20181013_124601
+/18. Bagaimana Cara Menabung/Ibu Rina/20181014_143417
+/12. Berapa Jumlah Yang Harus Saya Bayar/Yuda/20181013_124759
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Rina/20181014_114609
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Budi/20181014_121532
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Yuda/20181013_141200
+/7. Berapa Harga Karcis Film Ini/Ibu Budi/20181014_101526
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Elni/20181014_125012
+/21. Selamat Natal dan Tahun Baru/Ibu Budi/20181014_145943
+/7. Berapa Harga Karcis Film Ini/Ibu Rina/20181014_104723
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Elni/20181014_135606
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Budi/20181014_135100
+/23. Selamat Ulang Tahun/Ibu Budi/20181014_151004
+/21. Selamat Natal dan Tahun Baru/Adina/20181013_145624
+/9. Apa Nama Sayuran Itu/Ibu Elni/20181014_111126
+/24. Semoga Panjang Umur/Ibu Rina/20181014_163501
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Adina/20181013_142306
+/1. Siapa Nama Mu/Ibu Budi/20181014_092734
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Rina/20181014_161422
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Budi/20181014_121736
+/6. Jam Berapa Film Ini Di Putar/Ibu Budi/20181014_101307
+/15. Kami Harus Turun Dimana/Yuda/20181013_133159
+/8. Dimana Film Ini Di Putar/Ibu Budi/20181014_101757
+/2. Dimana Alamat Rumahmu/Ibu Elni/20181014_094549
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Yuda/20181013_130648
+/21. Selamat Natal dan Tahun Baru/Ibu Rina/20181014_162552
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Elni/20181014_141402
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Rina/20181014_130306
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Rina/20181014_171836
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Rina/20181014_145139
+/5. Film Apa Yang Sedang Di Putar/Yuda/20181013_101835
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Elni/20181014_135647
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Yuda/20181013_124110
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Yuda/20181013_134939
+/10. Berapa Harga Sayuran Itu/Yuda/20181013_111628
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Elni/20181014_111519
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Rina/20181014_143826
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Yuda/20181013_144844
+/3. Dimana Sekolahmu/Adina/20181013_095703
+/10. Berapa Harga Sayuran Itu/Ibu Elni/20181014_111236
+/3. Dimana Sekolahmu/Ibu Elni/20181014_094708
+/3. Dimana Sekolahmu/Ibu Rina/20181014_095834
+/21. Selamat Natal dan Tahun Baru/Ibu Budi/20181014_145718
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Budi/20181014_150642
+/24. Semoga Panjang Umur/Yuda/20181013_152212
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Elni/20181014_142111
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Rina/20181014_130620
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Yuda/20181013_154249
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Budi/20181014_115245
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Rina/20181014_172012
+/18. Bagaimana Cara Menabung/Ibu Budi/20181014_133710
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Adina/20181013_125536
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Budi/20181014_093745
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Rina/20181014_144723
+/6. Jam Berapa Film Ini Di Putar/Ibu Elni/20181014_102917
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Rina/20181014_161721
+/10. Berapa Harga Sayuran Itu/Yuda/20181013_111546
+/10. Berapa Harga Sayuran Itu/Ibu Rina/20181014_113444
+/2. Dimana Alamat Rumahmu/Ibu Rina/20181014_095454
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Budi/20181014_135127
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Rina/20181014_125912
+/18. Bagaimana Cara Menabung/Ibu Budi/20181014_133834
+/24. Semoga Panjang Umur/Ibu Rina/20181014_163325
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Rina/20181014_161016
+/5. Film Apa Yang Sedang Di Putar/Adina/20181013_103508
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Budi/20181014_110757
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Elni/20181014_135756
+/15. Kami Harus Turun Dimana/Yuda/20181013_133132
+/24. Semoga Panjang Umur/Ibu Rina/20181014_163254
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Ibu Elni/20181014_170840
+/21. Selamat Natal dan Tahun Baru/Ibu Elni/20181014_152556
+/3. Dimana Sekolahmu/Yuda/20181013_094518
+/8. Dimana Film Ini Di Putar/Ibu Budi/20181014_101936
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Rina/20181014_144509
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Budi/20181014_133032
+/2. Dimana Alamat Rumahmu/Ibu Budi/20181014_092949
+/24. Semoga Panjang Umur/Ibu Elni/20181014_155103
+/2. Dimana Alamat Rumahmu/Adina/20181013_093600
+/15. Kami Harus Turun Dimana/Ibu Rina/20181014_131234
+/6. Jam Berapa Film Ini Di Putar/Adina/20181013_104250
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Elni/20181014_142426
+/12. Berapa Jumlah Yang Harus Saya Bayar/Adina/20181013_130027
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Yuda/20181013_160845
+/2. Dimana Alamat Rumahmu/Ibu Budi/20181014_093020
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Rina/20181014_125552
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Rina/20181014_114100
+/23. Selamat Ulang Tahun/Ibu Elni/20181014_154100
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Budi/20181014_134140
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Yuda/20181013_134908
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Yuda/20181013_154021
+/8. Dimana Film Ini Di Putar/Adina/20181013_110538
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Rina/20181014_173437
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Elni/20181014_124558
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Budi/20181014_164208
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Ibu Rina/20181014_144640
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Yuda/20181013_133840
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Elni/20181014_160555
+/10. Berapa Harga Sayuran Itu/Ibu Budi/20181014_105941
+/26. Saya Ingin Ke Dokter Umum, Siapa Nama Dokternya/Yuda/20181013_154550
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Rina/20181014_143658
+/23. Selamat Ulang Tahun/Yuda/20181013_151720
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Yuda/20181013_141237
+/23. Selamat Ulang Tahun/Ibu Rina/20181014_162936
+/21. Selamat Natal dan Tahun Baru/Adina/20181013_145343
+/8. Dimana Film Ini Di Putar/Ibu Rina/20181014_105228
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Rina/20181014_100243
+/10. Berapa Harga Sayuran Itu/Adina/20181013_112150
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Elni/20181014_170102
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Adina/20181013_131803
+/12. Berapa Jumlah Yang Harus Saya Bayar/Ibu Rina/20181014_114553
+/8. Dimana Film Ini Di Putar/Ibu Rina/20181014_105241
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Yuda/20181013_144513
+/11. Apakah Harga Sayuran Ini Boleh Ditawar/Ibu Rina/20181014_113907
+/9. Apa Nama Sayuran Itu/Yuda/20181013_111342
+/24. Semoga Panjang Umur/Adina/20181013_153400
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Budi/20181014_115504
+/5. Film Apa Yang Sedang Di Putar/Ibu Budi/20181014_100915
+/5. Film Apa Yang Sedang Di Putar/Ibu Rina/20181014_103828
+/6. Jam Berapa Film Ini Di Putar/Ibu Rina/20181014_104300
+/15. Kami Harus Turun Dimana/Ibu Elni/20181014_124316
+/24. Semoga Panjang Umur/Ibu Rina/20181014_163520
+/8. Dimana Film Ini Di Putar/Yuda/20181013_105554
+/24. Semoga Panjang Umur/Ibu Elni/20181014_155231
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Rina/20181014_161651
+/3. Dimana Sekolahmu/Yuda/20181013_094643
+/20. Bagaimana Cara Mengirim Uang Melalui Bank/Yuda/20181013_141333
+/23. Selamat Ulang Tahun/Yuda/20181013_151743
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Budi/20181014_115630
+/7. Berapa Harga Karcis Film Ini/Adina/20181013_110045
+/25. Saya Sering Sakit Kepala, Saya Harus Periksa ke Bagian Mana/Ibu Elni/20181014_170032
+/27. Jam Berapa Dokter Datang/Adina/20181013_161446
+/4. Bolehkah Saya Minta Nomor Teleponmu/Yuda/20181013_095510
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Budi/20181014_115815
+/5. Film Apa Yang Sedang Di Putar/Adina/20181013_103704
+/23. Selamat Ulang Tahun/Ibu Rina/20181014_163149
+/23. Selamat Ulang Tahun/Ibu Budi/20181014_151131
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Budi/20181014_150748
+/27. Jam Berapa Dokter Datang/Ibu Budi/20181014_165402
+/18. Bagaimana Cara Menabung/Ibu Elni/20181014_135953
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Elni/20181014_123014
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Elni/20181014_140641
+/22. Selamat Idul Fitri, Mohon Maaf Lahir dan Batin/Ibu Elni/20181014_160330
+/6. Jam Berapa Film Ini Di Putar/Adina/20181013_104419
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Rina/20181014_132121
+/15. Kami Harus Turun Dimana/Ibu Budi/20181014_121007
+/27. Jam Berapa Dokter Datang/Yuda/20181013_160652
+/21. Selamat Natal dan Tahun Baru/Adina/20181013_145742
+/19. Di mana Kami Bisa Mengambil Tabungan/Ibu Elni/20181014_140745
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Adina/20181013_132035
+/3. Dimana Sekolahmu/Ibu Rina/20181014_095813
+/24. Semoga Panjang Umur/Ibu Elni/20181014_154800
+/8. Dimana Film Ini Di Putar/Ibu Elni/20181014_103538
+/18. Bagaimana Cara Menabung/Adina/20181013_140220
+/13. Kami Ingin Pergi ke Kota Tua, Naik Bis Apa/Ibu Elni/20181014_122905
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Rina/20181014_173513
+/28. Di Apotek Mana Obat ini Bisa Dibeli/Ibu Elni/20181014_171205
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Adina/20181013_134657
+/15. Kami Harus Turun Dimana/Ibu Rina/20181014_131513
+/24. Semoga Panjang Umur/Ibu Elni/20181014_155218
+/4. Bolehkah Saya Minta Nomor Teleponmu/Ibu Rina/20181014_100434
+/7. Berapa Harga Karcis Film Ini/Yuda/20181013_104955
+/4. Bolehkah Saya Minta Nomor Teleponmu/Adina/20181013_101117
+/14. Berapa Harga Karcis Yang Harus Saya Bayar/Ibu Elni/20181014_123407
+/21. Selamat Natal dan Tahun Baru/Ibu Rina/20181014_161845
+/17. Saya Ingin Membuka Tabungan, Bagaimana Caranya/Ibu Budi/20181014_133310
+/16. Adakah Cara Lain Kita Pergi Ke Kota Tua/Ibu Rina/20181014_132438
